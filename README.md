@@ -44,15 +44,10 @@
 ## 💬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:ibrahimovshixi@gmail.com"><img src="https://img.shields.io/badge/Email-ibrahimovshixi%40gmail.com-red?logo=gmail"></a>
+  <a href="mailto:sixiibrahimov217i@gmail.com"><img src="https://img.shields.io/badge/Email-ibrahimovshixi%40gmail.com-red?logo=gmail"></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Keep+learning+,+keep+coding!;Let's+build+something+amazing+💪;Full+Stack+Developer+in+progress...">
-</p>
-
+-
 ---
 
 <h2 align="center">🐍 My Contribution Snake 🐍</h2>
