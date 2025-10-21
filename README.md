@@ -1,10 +1,7 @@
 <!-- Banner -->
 <h1 align="center">Hey there, I'm Şıxı 👋</h1>
 <p align="center">
-  <a href="https://github.com/1brah1m0f"><img src="https://img.shields.io/badge/GitHub-1brah1m0f-181717?logo=github"></a>
   <a href="https://www.linkedin.com/in/%C5%9F%C4%B1x%C4%B1ibrahimov"><img src="https://img.shields.io/badge/LinkedIn-%C5%9F%C4%B1x%C4%B1%20Ibrahimov-0A66C2?logo=linkedin&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=1brah1m0f&label=Profile%20Views&color=brightgreen&style=flat" />
-  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-FF6B6B?logo=rocket" />
 </p>
 
 ---
@@ -13,8 +10,7 @@
 
 - 🎓 17 y/o student @ **Odlar Yurdu University (Information Technology)**  
 - 💻 Passionate about **Full Stack Development** (React + Node.js + Python + C++)  
-- 🤖 Interested in **AI, Data Science**, and creative coding  
-- 🛍️ Founder of my small IG brand **Luvizo** 💝  
+- 🤖 Interested in **AI, Data Science**, and creative coding   
 - 🎯 Goal: *Build. Learn. Grow. Repeat.*
 
 ---
@@ -49,8 +45,6 @@
 
 <p align="center">
   <a href="mailto:ibrahimovshixi@gmail.com"><img src="https://img.shields.io/badge/Email-ibrahimovshixi%40gmail.com-red?logo=gmail"></a>
-  <a href="https://github.com/1brah1m0f"><img src="https://img.shields.io/badge/GitHub-1brah1m0f-black?logo=github"></a>
-  <a href="https://www.linkedin.com/in/%C5%9F%C4%B1x%C4%B1ibrahimov"><img src="https://img.shields.io/badge/LinkedIn-%C5%9F%C4%B1x%C4%B1%20Ibrahimov-blue?logo=linkedin"></a>
 </p>
 
 ---
