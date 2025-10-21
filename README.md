@@ -48,11 +48,3 @@
 </p>
 
 -
----
-
-<h2 align="center">🐍 My Contribution Snake 🐍</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1brah1m0f/1brah1m0f/output/snake.svg" alt="Snake animation" />
-</p>
-
