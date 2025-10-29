@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">Hey there, I'm Şıxı 👋</h1>
+<h1 align="center">Hey there, I'm Shixi 👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/%C5%9F%C4%B1x%C4%B1ibrahimov"><img src="https://img.shields.io/badge/LinkedIn-%C5%9F%C4%B1x%C4%B1%20Ibrahimov-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
