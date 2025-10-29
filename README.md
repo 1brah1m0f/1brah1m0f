@@ -28,7 +28,6 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🌐 **Personal Portfolio** | My digital identity – modern, responsive, clean design | React, TailwindCSS |
-| 🧠 **AI Chat Assistant** | A fun AI-powered chatbot trained on my style | Python, OpenAI API |
 
 ---
 
@@ -46,5 +45,3 @@
 <p align="center">
   <a href="mailto:sixiibrahimov217i@gmail.com"><img src="https://img.shields.io/badge/Email-ibrahimovshixi%40gmail.com-red?logo=gmail"></a>
 </p>
-
--
