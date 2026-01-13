@@ -1,0 +1,22 @@
+repository:
+  name: 1brah1m0f
+  description: "✨ My GitHub Profile - Full-Stack Developer | AI Enthusiast | Always Learning"
+  homepage: https://github.com/1brah1m0f
+  topics:
+    - github-profile
+    - readme
+    - portfolio
+    - developer
+    - full-stack
+    - react
+    - nodejs
+    - python
+    - ai
+    - machine-learning
+    - student
+    - azerbaijan
+  private: false
+  has_issues: true
+  has_projects: false
+  has_wiki: false
+  has_downloads: true

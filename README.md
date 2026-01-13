@@ -6,12 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=1brah1m0f&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/1brah1m0f?label=Followers&style=social" alt="GitHub Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/1brah1m0f?label=Stars&style=social" alt="GitHub Stars"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;Always+Learning+%F0%9F%9A%80;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;Always+Learning+%F0%9F%9A%80;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -71,16 +69,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1brah1m0f&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1brah1m0f&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1brah1m0f&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1brah1m0f&layout=compact&theme=radical&hide_border=false" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1brah1m0f&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=1brah1m0f&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1brah1m0f&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1brah1m0f&theme=radical" alt="Profile Summary"/>
 </p>
 
 ---
@@ -109,18 +107,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Check out the [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
