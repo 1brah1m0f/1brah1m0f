@@ -8,10 +8,10 @@
 
 ## ⚡ About Me
 
-- 🎓 17 y/o student @ **Odlar Yurdu University (Information Technology)**  
-- 💻 Passionate about **Full Stack Development** (React + Node.js + Python + C++)  
-- 🤖 Interested in **AI, Data Science**, and creative coding   
-- 🎯 Goal: *Build. Learn. Grow. Repeat.*
+- 🎓 17 y/o **IT student @ Odlar Yurdu University**
+- 💻 Full-stack explorer (React · Node.js · Python · C++)
+- 🤖 Curious about **AI, Data Science**, and creative coding
+- 🎯 Motto: **Build → Learn → Ship → Repeat**
 
 ---
 
@@ -27,7 +27,11 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🌐 **Personal Portfolio** | My digital identity – modern, responsive, clean design | React, TailwindCSS |
+| 🌐 **Personal Portfolio** | Modern, responsive, and clean | React, TailwindCSS |
+
+<p align="center">
+  <i>More coming soon — always building.</i>
+</p>
 
 ---
 
@@ -44,4 +48,14 @@
 
 <p align="center">
   <a href="mailto:sixiibrahimov217i@gmail.com"><img src="https://img.shields.io/badge/Email-ibrahimovshixi%40gmail.com-red?logo=gmail"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/%C5%9F%C4%B1x%C4%B1ibrahimov"><img src="https://img.shields.io/badge/LinkedIn-%C5%9F%C4%B1x%C4%B1%20Ibrahimov-0A66C2?logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+## 🐍 Snake Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1brah1m0f/1brah1m0f/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
