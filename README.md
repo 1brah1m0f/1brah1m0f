@@ -64,6 +64,10 @@
 
 <p align="center">
   <i>More coming soon — always building.</i>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -90,7 +94,7 @@
 
 ---
 
-## 💬 Let's Connect!
+## 📫 How to Reach Me
 
 <p align="center">
   <a href="mailto:sixiibrahimov217i@gmail.com">
@@ -100,7 +104,23 @@
   <a href="https://www.linkedin.com/in/%C5%9F%C4%B1x%C4%B1ibrahimov">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/1brah1m0f">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Check out the [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -116,4 +136,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/1brah1m0f">Shixi</a>
 </p>
