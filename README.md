@@ -16,7 +16,7 @@
 
 ## ⚡ About Me
 
-- 🎓 17 y/o **IT student @ Odlar Yurdu University**
+- 🎓 18 y/o **IT student @ Odlar Yurdu University**
 - 💻 Full-stack explorer (React · Node.js · Python · C++)
 - 🤖 Curious about **AI, Data Science**, and creative coding
 - 🎯 Motto: **Build → Learn → Ship → Repeat**
