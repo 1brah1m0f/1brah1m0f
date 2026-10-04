@@ -175,9 +175,13 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Get in Touch
 
 <p align="center">
+  <a href="https://portofe-g82d.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <a href="mailto:shixiibrahimov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
