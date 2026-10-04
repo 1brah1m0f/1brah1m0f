@@ -136,6 +136,9 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 **Frontend**  
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="React, Next.js, Tailwind CSS, Vite" />
 
+**Backend & Data**  
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase,prisma&theme=dark" alt="Node.js, NestJS, PostgreSQL, Supabase, Prisma" />
+
 ---
 
 ## 📊 GitHub Stats
