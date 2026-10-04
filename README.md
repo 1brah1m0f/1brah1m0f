@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Shikhi 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%C5%9F%C4%B1x%C4%B1ibrahimov"><img src="https://img.shields.io/badge/LinkedIn-%C5%9F%C4%B1x%C4%B1%20Ibrahimov-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shixiibrahimov/"><img src="https://img.shields.io/badge/LinkedIn-shixiibrahimov-0A66C2?logo=linkedin&logoColor=white"></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=1brah1m0f&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
@@ -100,7 +100,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/%C5%9F%C4%B1x%C4%B1ibrahimov">
+  <a href="https://www.linkedin.com/in/shixiibrahimov/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
