@@ -152,6 +152,12 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 
 ---
 
+## 🗣️ Languages
+
+🇦🇿 Azerbaijani — Native · 🇹🇷 Turkish — Native · 🇬🇧 English — B2
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
