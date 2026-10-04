@@ -1,5 +1,6 @@
 <!-- Banner -->
-<h1 align="center">Hey there, I'm Shixi 👋</h1>
+<h1 align="center">Hey there, I'm Shikhi 👋</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/%C5%9F%C4%B1x%C4%B1ibrahimov"><img src="https://img.shields.io/badge/LinkedIn-%C5%9F%C4%B1x%C4%B1%20Ibrahimov-0A66C2?logo=linkedin&logoColor=white"></a>
   &nbsp;
@@ -125,5 +126,5 @@
 </p>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/1brah1m0f">Shixi</a>
+  Made with ❤️ by <a href="https://github.com/1brah1m0f">Shikhi</a>
 </p>
