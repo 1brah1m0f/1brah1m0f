@@ -4,15 +4,18 @@ repository:
   homepage: https://portofe-g82d.vercel.app/
   topics:
     - github-profile
-    - readme
+    - profile-readme
     - portfolio
-    - developer
-    - full-stack
-    - react
-    - nodejs
+    - software-engineer
     - python
-    - ai
-    - machine-learning
+    - typescript
+    - react
+    - nextjs
+    - aws
+    - llm
+    - semantic-search
+    - playwright
+    - hackathon
     - student
     - azerbaijan
   private: false
