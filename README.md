@@ -94,6 +94,36 @@ Interactive cybersecurity education platform that helps school students learn cy
 
 ---
 
+## 🧰 Tech Stack
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="React, Next.js, Tailwind CSS, Vite" />
+
+**Backend & Data**  
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase,prisma&theme=dark" alt="Node.js, NestJS, PostgreSQL, Supabase, Prisma" />
+
+**Cloud & Tools**  
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,vscode&theme=dark" alt="AWS, Vercel, Git, GitHub, VS Code" />
+
+**AI & Testing**  
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" alt="LLMs" />
+<img src="https://img.shields.io/badge/Semantic_Search-412991?style=flat-square" alt="Semantic Search" />
+<img src="https://img.shields.io/badge/Vector_Databases-412991?style=flat-square" alt="Vector Databases" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" />
+
+**Core:** Algorithms · Problem Solving · Event Management · Team Communication & Coordination
+
+---
+
+## 🗣️ Languages
+
+🇦🇿 Azerbaijani — Native · 🇹🇷 Turkish — Native · 🇬🇧 English — B2
+
+---
+
 ## 🏆 Honours & Awards
 
 | Place | Competition | Organiser | Date |
@@ -125,36 +155,6 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 | **Entrepreneurship, Satellite Technology and Artificial Intelligence** | [Holon Institute of Technology](https://vistar.az/) | Jul 2026 – Sep 2026 |
 
 📄 **Reference:** Dr. Raz Itzhaki, CEO of Orbit Catapult — [recommendation letter](https://drive.google.com/file/d/1comBMChp5ALKk9i7XXsCaLRFTKsJ1QaP/view?usp=sharing)
-
----
-
-## 🧰 Tech Stack
-
-**Languages**  
-<img src="https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS" />
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="React, Next.js, Tailwind CSS, Vite" />
-
-**Backend & Data**  
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase,prisma&theme=dark" alt="Node.js, NestJS, PostgreSQL, Supabase, Prisma" />
-
-**Cloud & Tools**  
-<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,vscode&theme=dark" alt="AWS, Vercel, Git, GitHub, VS Code" />
-
-**AI & Testing**  
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" alt="LLMs" />
-<img src="https://img.shields.io/badge/Semantic_Search-412991?style=flat-square" alt="Semantic Search" />
-<img src="https://img.shields.io/badge/Vector_Databases-412991?style=flat-square" alt="Vector Databases" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" />
-
-**Core:** Algorithms · Problem Solving · Event Management · Team Communication & Coordination
-
----
-
-## 🗣️ Languages
-
-🇦🇿 Azerbaijani — Native · 🇹🇷 Turkish — Native · 🇬🇧 English — B2
 
 ---
 
