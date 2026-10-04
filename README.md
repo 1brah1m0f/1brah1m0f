@@ -31,11 +31,12 @@ IT student at **Odlar Yurdu University** in Baku with a strong focus on entrepre
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 Currently
 
-- 🌟 Building my personal portfolio with modern web technologies
-- 📚 Learning advanced React patterns and state management
-- 🧠 Exploring AI/ML fundamentals with Python
+- 🌐 Building **[Openly](https://www.openlyapply.com)** — opportunities abroad for young people from Azerbaijan, all in one place
+- ☁️ Running AWS workshops and tech talks for students at Odlar Yurdu University
+- 🧑‍🏫 Coordinating tech events and innovation programs at the OYU Incubation Center
+- 📚 Studying Full Stack Web Development at **Holberton School**
 
 ---
 
