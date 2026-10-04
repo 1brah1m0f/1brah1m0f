@@ -130,15 +130,11 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 
 ## 🧰 Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
-</p>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS" />
 
-### ⚙️ Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,git,github,vscode,pycharm&theme=dark" />
-</p>
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="React, Next.js, Tailwind CSS, Vite" />
 
 ---
 
