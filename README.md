@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1brah1m0f&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=1brah1m0f&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
