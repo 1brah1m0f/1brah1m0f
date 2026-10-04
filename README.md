@@ -63,6 +63,21 @@ IT student at **Odlar Yurdu University** in Baku with a strong focus on entrepre
 
 ---
 
+## 🚀 Featured Projects
+
+### 🌍 [Openly](https://www.openlyapply.com)
+<sub>Sep 2026 – Present · [GitHub](https://github.com/1brah1m0f/Voluntering-platform) · [Demo video](https://www.instagram.com/reel/DeBmKUMqQhB/)</sub>
+
+Helps young people from Azerbaijan find and apply for opportunities abroad — Erasmus+, European Solidarity Corps, UN Volunteers — in one place, with deadline reminders and tracking of saved and applied programs.
+
+- 🎓 **Openly Student** brings together scholarships, universities and a step-by-step roadmap, showing options that match the user's level and budget and comparing universities side by side
+- 🤖 **AI assistant** helps shape motivation letters, reviews CVs and essays, and suggests a personalised study-abroad plan
+- 🔓 Free to browse, no account needed
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Supabase` `Vercel`
+
+---
+
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
@@ -73,18 +88,6 @@ IT student at **Odlar Yurdu University** in Baku with a strong focus on entrepre
 ### ⚙️ Backend & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,git,github,vscode,pycharm&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Status |
-|----------|--------------|------|--------|
-| 🌐 **Personal Portfolio** | Modern, responsive, and clean | React, TailwindCSS | 🚧 In Progress |
-
-<p align="center">
-  <i>More coming soon — always building.</i>
 </p>
 
 ---
