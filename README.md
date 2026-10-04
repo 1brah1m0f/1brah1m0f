@@ -1,5 +1,7 @@
-<!-- Banner -->
-<h1 align="center">Hey there, I'm Shikhi 👋</h1>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:bf91f3&height=200&section=header&text=Shikhi%20Ibrahimov&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Baku%2C%20Azerbaijan&descSize=18&descAlignY=56" alt="Shikhi Ibrahimov — Software Engineer" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shixiibrahimov/"><img src="https://img.shields.io/badge/LinkedIn-shixiibrahimov-0A66C2?logo=linkedin&logoColor=white"></a>
