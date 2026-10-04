@@ -94,6 +94,16 @@ Interactive cybersecurity education platform that helps school students learn cy
 
 ---
 
+## 🏆 Honours & Awards
+
+| Place | Competition | Organiser | Date |
+|:-----:|-------------|-----------|------|
+| 🥉 3rd | OYU Game Jam Hackathon | Xsolla & Odlar Yurdu University | May 2026 |
+| 🥈 2nd | “Farm2Tour” Hackathon | Agrarian Development Volunteers | May 2026 |
+| 🥈 2nd | “RC Code” Programming Contest | RobotChallenge Azerbaijan | May 2026 |
+
+---
+
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
