@@ -101,6 +101,9 @@ Interactive cybersecurity education platform that helps school students learn cy
 | 🥉 3rd | OYU Game Jam Hackathon | Xsolla & Odlar Yurdu University | May 2026 |
 | 🥈 2nd | “Farm2Tour” Hackathon | Agrarian Development Volunteers | May 2026 |
 | 🥈 2nd | “RC Code” Programming Contest | RobotChallenge Azerbaijan | May 2026 |
+| 🥉 3rd | AZCON Future Tech: Transport, Telecom & AI Challenge | Holberton School & AZCON | Apr 2026 |
+| 🥉 3rd | GəncVizyon 2026 | Azərbaycan Gənclər Fondu | Jan 2026 |
+| 🥉 3rd | Ai4cyber Hackathon | Holberton School | Jan 2026 |
 
 ---
 
