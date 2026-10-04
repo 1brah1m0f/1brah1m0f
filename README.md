@@ -55,6 +55,12 @@ IT student at **Odlar Yurdu University** in Baku with a strong focus on entrepre
 - Developed an LLM-based chatbot with semantic search, using embedding models for data vectorisation and vector databases for accurate, context-aware responses
 - Designed and implemented automated end-to-end UI and API test suites with Playwright and Python to keep the system reliable
 
+**🚀 Event Organizer & Coordinator** · OYU Startup and Incubation Center  
+<sub>Baku · Nov 2025 – Present</sub>
+
+- Coordinator and Project Manager at the OYU Incubation Center
+- Organise and coordinate tech events and innovation programs for students in the local startup ecosystem
+
 ---
 
 ## 🧰 Tech Stack
