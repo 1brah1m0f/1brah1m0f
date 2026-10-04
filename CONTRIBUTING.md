@@ -37,7 +37,7 @@ Use clear, descriptive commit messages:
 
 ## Questions?
 
-Feel free to open an issue or reach out via [email](mailto:sixiibrahimov217i@gmail.com).
+Feel free to open an issue or reach out via [email](mailto:shixiibrahimov@gmail.com).
 
 ---
 
