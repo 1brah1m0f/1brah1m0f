@@ -40,6 +40,17 @@ IT student at **Odlar Yurdu University** in Baku with a strong focus on entrepre
 
 ---
 
+## 💼 Experience
+
+**☁️ AWS Student Builder Group Leader** · [Odlar Yurdu University](https://oyu.edu.az/)  
+<sub>Baku · May 2026 – Present</sub>
+
+- Lead the AWS Student Builder Group, building a community of students passionate about cloud computing
+- Organise workshops, tech talks and hands-on events where students learn AWS services and cloud fundamentals
+- Help members gain practical, career-ready cloud skills
+
+---
+
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
