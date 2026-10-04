@@ -107,6 +107,15 @@ Interactive cybersecurity education platform that helps school students learn cy
 
 ---
 
+## 🎤 Conferences & Seminars
+
+**PG Connects — Pocket Gamer Connects Summit 2026**  
+<sub>Shanghai, China · Jul 2026</sub>
+
+Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project and connected with dozens of developers, investors and publishers from the gaming industry worldwide.
+
+---
+
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
