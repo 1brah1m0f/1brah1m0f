@@ -161,16 +161,16 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1brah1m0f&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1brah1m0f&layout=compact&theme=radical&hide_border=false" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1brah1m0f&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1brah1m0f&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=1brah1m0f&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=1brah1m0f&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1brah1m0f&theme=radical" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1brah1m0f&theme=tokyonight" alt="Profile Summary"/>
 </p>
 
 ---
