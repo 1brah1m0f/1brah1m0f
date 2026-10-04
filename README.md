@@ -197,13 +197,15 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 
 ---
 
-## 🐍 Snake Contributions
+## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1brah1m0f/1brah1m0f/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1brah1m0f/1brah1m0f/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/1brah1m0f/1brah1m0f/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1brah1m0f/1brah1m0f/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1brah1m0f/1brah1m0f/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/1brah1m0f/1brah1m0f/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
