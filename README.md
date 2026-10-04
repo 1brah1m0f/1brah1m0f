@@ -139,6 +139,9 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 **Backend & Data**  
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase,prisma&theme=dark" alt="Node.js, NestJS, PostgreSQL, Supabase, Prisma" />
 
+**Cloud & Tools**  
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,vscode&theme=dark" alt="AWS, Vercel, Git, GitHub, VS Code" />
+
 ---
 
 ## 📊 GitHub Stats
