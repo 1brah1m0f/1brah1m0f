@@ -116,6 +116,16 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 
 ---
 
+## 🎓 Education
+
+| Program | Institution | Dates |
+|---------|-------------|-------|
+| **Bachelor of Information Technology**<br><sub>Software and applications development and analysis · EQF Level 6</sub> | [Odlar Yurdu University](https://oyu.edu.az/) | Sep 2025 – Present |
+| **Full Stack Web Development** (Certification) | [Holberton School](https://holbertonschool.az/) | Nov 2025 – Present |
+| **Entrepreneurship, Satellite Technology and Artificial Intelligence** | [Holon Institute of Technology](https://vistar.az/) | Jul 2026 – Sep 2026 |
+
+---
+
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
