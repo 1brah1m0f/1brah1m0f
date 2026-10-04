@@ -142,6 +142,14 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 **Cloud & Tools**  
 <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,vscode&theme=dark" alt="AWS, Vercel, Git, GitHub, VS Code" />
 
+**AI & Testing**  
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" alt="LLMs" />
+<img src="https://img.shields.io/badge/Semantic_Search-412991?style=flat-square" alt="Semantic Search" />
+<img src="https://img.shields.io/badge/Vector_Databases-412991?style=flat-square" alt="Vector Databases" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" />
+
+**Core:** Algorithms · Problem Solving · Event Management · Team Communication & Coordination
+
 ---
 
 ## 📊 GitHub Stats
