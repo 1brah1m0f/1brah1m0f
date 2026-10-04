@@ -18,13 +18,16 @@
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
-- 🎓 18 y/o **IT student @ Odlar Yurdu University**
-- 💻 Full-stack explorer (React · Node.js · Python · C++)
-- 🤖 Curious about **AI, Data Science**, and creative coding
+IT student at **Odlar Yurdu University** in Baku with a strong focus on entrepreneurship and product development. I build AI-powered products, organise tech events, and spend a lot of weekends at hackathons — turning ideas into digital products and helping grow the next generation of Azerbaijani tech talent.
+
+- ☁️ **AWS Student Builder Group Leader** at Odlar Yurdu University
+- 🚀 Coordinator & Project Manager at the **OYU Startup and Incubation Center**
+- 🤖 Former Software Engineer at **[Neurotime](https://www.neurotime.ai/)** — LLM chatbots, semantic search, test automation
+- 🏆 6 podium finishes at hackathons and programming contests
+- 🌍 Based in Baku, Azerbaijan 🇦🇿
 - 🎯 Motto: **Build → Learn → Ship → Repeat**
-- 🌍 Based in Azerbaijan 🇦🇿
 
 ---
 
