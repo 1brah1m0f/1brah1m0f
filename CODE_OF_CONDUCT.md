@@ -20,7 +20,7 @@ We are committed to providing a welcoming and inspiring community for everyone.
 
 ## Enforcement
 
-Violations can be reported to [sixiibrahimov217i@gmail.com](mailto:sixiibrahimov217i@gmail.com).
+Violations can be reported to [shixiibrahimov@gmail.com](mailto:shixiibrahimov@gmail.com).
 
 ## Attribution
 
