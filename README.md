@@ -49,6 +49,12 @@ IT student at **Odlar Yurdu University** in Baku with a strong focus on entrepre
 - Organise workshops, tech talks and hands-on events where students learn AWS services and cloud fundamentals
 - Help members gain practical, career-ready cloud skills
 
+**🤖 Software Engineer** · [Neurotime](https://www.neurotime.ai/)  
+<sub>Baku · Feb 2026 – May 2026</sub>
+
+- Developed an LLM-based chatbot with semantic search, using embedding models for data vectorisation and vector databases for accurate, context-aware responses
+- Designed and implemented automated end-to-end UI and API test suites with Playwright and Python to keep the system reliable
+
 ---
 
 ## 🧰 Tech Stack
