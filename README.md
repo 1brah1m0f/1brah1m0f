@@ -96,7 +96,7 @@
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:sixiibrahimov217i@gmail.com">
+  <a href="mailto:shixiibrahimov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
