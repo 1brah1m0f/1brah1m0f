@@ -86,6 +86,12 @@ Interactive cybersecurity education platform that helps school students learn cy
 
 `Next.js` `NestJS` `TypeScript` `Prisma` `Supabase` `Tailwind CSS`
 
+<p align="center">
+  <a href="https://portofe-g82d.vercel.app/"><b>Portfolio</b></a> ·
+  <a href="https://github.com/1brah1m0f/Azerbaijan-Startup-Community"><b>Azerbaijan Startup Community</b></a> ·
+  <a href="https://github.com/1brah1m0f?tab=repositories"><b>All repositories →</b></a>
+</p>
+
 ---
 
 ## 🧰 Tech Stack
