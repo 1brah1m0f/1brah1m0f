@@ -2,6 +2,8 @@
 
 Thanks for your interest in contributing! 🎉
 
+This is my GitHub profile repository. Typo fixes and suggestions for the README are welcome.
+
 ## How to Contribute
 
 1. **Fork** the repository
