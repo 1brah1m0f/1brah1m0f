@@ -13,26 +13,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
+
       - name: Update Topics
         uses: actions/github-script@v7
         with:
           script: |
-            const topics = [
-              'github-profile',
-              'readme',
-              'portfolio',
-              'developer',
-              'full-stack',
-              'react',
-              'nodejs',
-              'python',
-              'ai',
-              'machine-learning',
-              'student',
-              'azerbaijan'
-            ];
-            
+            // Single source of truth: the topics list in .github/settings.yml
+            const fs = require('fs');
+            const yml = fs.readFileSync('.github/settings.yml', 'utf8');
+            const block = yml.split(/\r?\n  topics:\r?\n/)[1] || '';
+            const topics = [];
+            for (const line of block.split(/\r?\n/)) {
+              const m = line.match(/^\s+-\s+([a-z0-9-]+)\s*$/);
+              if (!m) break;
+              topics.push(m[1]);
+            }
+            core.info(`Topics: ${topics.join(', ')}`);
+
             await github.rest.repos.replaceAllTopics({
               owner: context.repo.owner,
               repo: context.repo.repo,
