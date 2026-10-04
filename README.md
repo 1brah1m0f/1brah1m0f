@@ -210,9 +210,9 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:bf91f3&height=100&section=footer" alt="" />
 </p>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/1brah1m0f">Shikhi</a>
+  Made with ❤️ by <a href="https://github.com/1brah1m0f">Shikhi Ibrahimov</a>
 </p>
