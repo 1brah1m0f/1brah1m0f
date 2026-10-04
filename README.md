@@ -124,6 +124,8 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 | **Full Stack Web Development** (Certification) | [Holberton School](https://holbertonschool.az/) | Nov 2025 – Present |
 | **Entrepreneurship, Satellite Technology and Artificial Intelligence** | [Holon Institute of Technology](https://vistar.az/) | Jul 2026 – Sep 2026 |
 
+📄 **Reference:** Dr. Raz Itzhaki, CEO of Orbit Catapult — [recommendation letter](https://drive.google.com/file/d/1comBMChp5ALKk9i7XXsCaLRFTKsJ1QaP/view?usp=sharing)
+
 ---
 
 ## 🧰 Tech Stack
