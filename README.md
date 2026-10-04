@@ -175,15 +175,6 @@ Invited to Shanghai as a winner of the Xsolla Game Jam; presented my own project
 
 ---
 
-## 🎯 Fun Facts
-
-- ⚡ I debug with console.log() like a pro
-- 🎮 When not coding, I'm probably gaming or exploring new tech
-- ☕ Coffee = Code fuel
-- 🌱 Always curious, always growing
-
----
-
 ## 📫 How to Reach Me
 
 <p align="center">
