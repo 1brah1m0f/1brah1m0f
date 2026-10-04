@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shixiibrahimov/"><img src="https://img.shields.io/badge/LinkedIn-shixiibrahimov-0A66C2?logo=linkedin&logoColor=white"></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=1brah1m0f&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/1brah1m0f?label=Followers&style=social" alt="GitHub Followers"/>
+  <a href="https://portofe-g82d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shixiibrahimov/"><img src="https://img.shields.io/badge/LinkedIn-shixiibrahimov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shixiibrahimov@gmail.com"><img src="https://img.shields.io/badge/Email-shixiibrahimov%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=1brah1m0f&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/1brah1m0f?label=Followers&style=flat-square&color=70a5fd" alt="GitHub Followers" />
 </p>
 
 <p align="center">
