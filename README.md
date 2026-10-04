@@ -76,6 +76,16 @@ Helps young people from Azerbaijan find and apply for opportunities abroad — E
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `Supabase` `Vercel`
 
+### 🛡️ [KiberEduAz](https://kiber-edu-az-one.vercel.app/)
+<sub>Aug 2026 – Oct 2026 · [GitHub](https://github.com/1brah1m0f/KiberEduAz)</sub>
+
+Interactive cybersecurity education platform that helps school students learn cybersecurity in a simple, engaging and practical way, with separate access for teachers and students.
+
+- 👩‍🏫 Teachers create virtual classes, add students, assign tasks and practical challenges, and track progress
+- 🧑‍💻 Students complete hands-on activities to build practical skills
+
+`Next.js` `NestJS` `TypeScript` `Prisma` `Supabase` `Tailwind CSS`
+
 ---
 
 ## 🧰 Tech Stack
